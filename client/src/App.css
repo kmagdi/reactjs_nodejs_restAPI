@@ -1,4 +1,39 @@
-.App {
-  text-align: center;
+
+.App{
+  background-color: #fbeee6;
+  
 }
 
+.newBook{
+  max-width: 500px!important;
+  margin-top: 3.5em;
+  padding-top: 1em;
+}
+
+.navbar {
+  background-color: #cd7672;
+
+}
+.navbar a{
+  color:#fbeee6;
+}
+.navbar a:hover{
+  color:#fbeee6;
+  text-decoration-line: overline ;
+  text-decoration-style: wavy;
+}
+.footer{
+  background-color: #cd7672;
+  color:#fbeee6;
+}
+.footer a{
+  color:#fbeee6
+}
+.footer a:hover{
+  color:#fbeee6
+}
+.btn-search, .btn-add{
+  color:#fbeee6!important;
+  border-color: #fbeee6!important;
+  background-color: #cd7672!important;
+}
